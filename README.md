@@ -81,7 +81,7 @@ The model was evaluated on the 2025 test data and achieved **accuracy: 79.45%**
 
 Visualization shows that historical performance and qualifying position are the strongest predictors:
 
-<img width="1042" height="545" alt="image" src="https://github.com/user-attachments/assets/a8b92b81-f99c-470f-8666-0fb904a6a45d" />
+<img width="1042" height="545" alt="image" src="https://github.com/user-attachments/assets/5be838b8-eb17-46b9-954f-fd34103cdfdc" />
 
 1. driver_avg_points_last_3: reflects recent momentum, and the strongest predictor of next race performance.
 2. grid: lower grid numbers or front row greatly increase the chance of the finishing in the top 10
