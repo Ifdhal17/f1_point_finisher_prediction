@@ -10,9 +10,9 @@ The Dataset I've been using is from kaggle
 
 **Key Features:**
   - Prediction target: binary classification, (1) if finished at the top 10 and (0) if not
-  - Data Era : Focused on the 2014-2015 for performance relevance
-  - Model : Using a RandomForestClassifier to handle non linear relationship in the data
-  - Optimization : Uses GridSearchCV for hyperparameter tuning
+  - Data Era: Focused on the 2014-2015 for performance relevance
+  - Model: Using a RandomForestClassifier to handle non linear relationship in the data
+  - Optimization: Uses GridSearchCV for hyperparameter tuning
 
 **Dataset**
 This project uses several interrelated CSV files:
