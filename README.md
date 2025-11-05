@@ -95,7 +95,7 @@ This project concludes with a case study where the model predicts the probabilit
 
 <img width="1625" height="853" alt="image" src="https://github.com/user-attachments/assets/99e1f476-9d2a-4a90-8659-0b424057675a" />
 
-Top 3 (Podium) Prediction Drivers:
+Prediction of the Top 3 Drivers Most Likely to Finish in the Top 10 at the Brazilian GP:
 1. Verstappen: 97.26%
 2. Leclerc: 95.33%
 3. Norris: 94.37%
