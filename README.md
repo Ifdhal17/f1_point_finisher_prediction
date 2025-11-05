@@ -74,9 +74,11 @@ the model after tuning:
 The model after tuning shows major improvement by increasing true negatives (106 → 155) and cutting false positive (93 → 44), making it much better at predicting drivers who won't finish in the top 10
 
 **Result**
+
 The model was evaluated on the 2025 test data and achieved **accuracy: 79.45%**
 
 **Feature importance:**
+
 Visualization shows that historical performance and qualifying position are the strongest predictors:
 
 <img width="1042" height="545" alt="image" src="https://github.com/user-attachments/assets/a8b92b81-f99c-470f-8666-0fb904a6a45d" />
@@ -88,6 +90,7 @@ Visualization shows that historical performance and qualifying position are the 
 5. driver_avg_points_circuit: show if the driver is historically strong or a "track specialist" at this circuit
 
 **Prediction Example: the upcoming Brazilian GP 2025 (7-10 November)**
+
 This project concludes with a case study where the model predicts the probability of drivers who will be finished in the top 10 for the Brazilian GP 2025 (based on manually entered performance data)
 
 <img width="1625" height="853" alt="image" src="https://github.com/user-attachments/assets/99e1f476-9d2a-4a90-8659-0b424057675a" />
