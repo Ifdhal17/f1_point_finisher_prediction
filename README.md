@@ -58,6 +58,7 @@ New features are created to capture historical performance of drivers/teams:
           - n_estimators: 150
 
 the model before tuning: 
+
 <img width="611" height="302" alt="image" src="https://github.com/user-attachments/assets/441cfdfa-83a2-4e52-8b5c-e10f603f5f27" />
 
 <img width="539" height="432" alt="image" src="https://github.com/user-attachments/assets/bd82b32e-92ff-457d-94dc-21c832ad1826" />
@@ -65,6 +66,7 @@ the model before tuning:
 we can see the model before tuning is kinda biased, the model performs better in identifying class 1 (positive) more than 0 (negative) and the main weakness is the high number of false positive (93), where the model is too optimistic in predicting something as class 1 when it's actually class 0
 
 the model after tuning:
+
 <img width="563" height="304" alt="image" src="https://github.com/user-attachments/assets/272cad02-dda3-4e15-b806-c9b1b5f2634f" />
 
 <img width="539" height="432" alt="image" src="https://github.com/user-attachments/assets/3efd2bb1-e5a2-4f4c-a132-dbc52708f63a" />
