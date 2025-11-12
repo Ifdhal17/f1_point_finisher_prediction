@@ -1,5 +1,7 @@
 # Formula 1 Point Finisher Prediction
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51d37fb0-f6ce-4d39-b543-427a5c2fce3f" />
+
 **Background & Purposes**
 
 F1 or Formula One is an open wheel racing organized by Fédération Internationale de l'Automobile (FIA). Each season consists of multiple races, known as Grand Prix and held at circuits around the world. Drivers and teams (called constructors) compete for the World Drivers and Constructors Championships. Since 2010, only the top 10 finishers earn points. The competition for the 2025 World Drivers Championship is extremely tight, making the prediction of point-scoring (Top 10) positions crucial for understanding championship dynamics and team performance.
