@@ -43,6 +43,7 @@ This project uses several interrelated CSV files:
 - The target variable 'finished_in_top_10' is created based on the 'position'
 
 2. Feature Engineering
+
 New features are created to capture historical performance of drivers/teams:
 - Recent performance: 'driver_avg_points_last_3' (average points from the last 3 races)
 - Championship point: 'driver_points_before_race' and 'constructor_points_before_race'
